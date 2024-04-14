@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "bs":"tsc -b && node Game.js"
+}
